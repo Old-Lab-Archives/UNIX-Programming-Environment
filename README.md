@@ -1,6 +1,6 @@
 Welcome to UNIX-Programming-Environment repository! <br>
 In this repository, the programs that can be run on UNIX environment is coded here. <br>
-Unix-BSD has been targeted. The existing project is intended for self-learning and also, aimed to do proposed thingy with windows.
+Unix-BSD has been targeted. The project is intended for self-learning and also, aimed to do proposed thingy with windows.
 <br>
 And i wanna confess that i have no runnable BSD OS or anything.
 <br>
