@@ -1,5 +1,5 @@
 #include "juice.h"
-#define TOK_ADD 5
+#define MeowToken_ADD 5
 void do_line(char *);
 void cmd_AddMeow(void);
 int get_MeowToken(void);
@@ -20,7 +20,7 @@ void do_line(char *MeowPtr)
 	{
 		switch(MeowCmd)
 		{
-		case TOK_ADD:
+		case MeowToken_ADD:
 			cmd_AddMeow();
 			break;
 		}
